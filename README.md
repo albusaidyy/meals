@@ -1,16 +1,30 @@
-# meals
+# Meals
 
-A new Flutter project.
+A simple Meal Recipe App build with Flutter
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+Below are sample images of the app.
 
-A few resources to get you started if this is your first Flutter project:
+<kbd>
+<img src="https://github.com/albusaidyy/meals/blob/master/assets/screenshots/1.png" alt="sample meal image" width="300" >
+</kbd>
+<br>
+<br>
+  
+<kbd> 
+<img src="https://github.com/albusaidyy/meals/blob/master/assets/screenshots/3.png" alt="sample meal image" width="300" >
+</kbd>
+<br>
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+More can be found [here](https://github.com/albusaidyy/meals/tree/master/assets/screenshots).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
