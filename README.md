@@ -1,6 +1,6 @@
 # Meals
 
-A simple Meal Recipe App build with Flutter
+A simple Meal Recipe App built with Flutter
 
 ## Screenshots
 
