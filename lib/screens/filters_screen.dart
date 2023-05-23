@@ -33,7 +33,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
     String title,
     String description,
     bool currentValue,
-      Function(bool?) updateValue,
+    Function(bool?) updateValue,
   ) {
     return SwitchListTile(
       title: Text(title),
@@ -72,7 +72,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
             padding: EdgeInsets.all(20),
             child: Text(
               'Adjust your meal selection.',
-              style: Theme.of(context).textTheme.headline5,
+              style: Theme.of(context).textTheme.headlineSmall,
             ),
           ),
           Expanded(

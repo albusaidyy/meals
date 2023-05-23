@@ -71,6 +71,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'DeliMeals',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         canvasColor: Color.fromRGBO(255, 254, 229, 1),
         fontFamily: 'Raleway',
