@@ -1,3 +1,4 @@
+import 'package:device_preview/device_preview.dart';
 import 'package:flutter/material.dart';
 
 import './models/meal.dart';
@@ -8,7 +9,17 @@ import '../screens/tabs_screen.dart';
 
 import '../screens/categories_meals_screen.dart';
 
-void main() => runApp(MyApp());
+void main() {
+  runApp(
+    DevicePreview(
+        enabled: true,
+        isToolbarVisible: false,
+        defaultDevice: Devices.android.samsungGalaxyA50,
+        storage: DevicePreviewStorage.none(),
+        // tools: [...DevicePreview.defaultTools],
+        builder: (context) => MyApp()),
+  );
+}
 
 class MyApp extends StatefulWidget {
   @override
@@ -70,7 +81,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'DeliMeals',
+      title: 'Meals',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         canvasColor: Color.fromRGBO(255, 254, 229, 1),
