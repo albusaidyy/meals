@@ -1,6 +1,8 @@
 # Meals
 
-A simple Meal Recipe App built with Flutter
+A simple Meal Recipe App built with Flutter. 
+* Fetching data from a dummy collection.
+* Provider package - State management
 
 ## Screenshots
 
