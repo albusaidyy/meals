@@ -4,6 +4,13 @@ A simple Meal Recipe App built with Flutter.
 * Fetching data from a dummy collection.
 * Provider package - State management
 
+# Simulation
+Take a look at the [App](https://meals-fa154.web.app/#/)
+<br>
+
+
+ **_NOTE:_**   This is a mere simulation of the mobile user experience from your laptop, desktop or tablet.
+
 ## Screenshots
 
 Below are sample images of the app.
@@ -20,7 +27,7 @@ Below are sample images of the app.
 <br>
 <br>
 
-More can be found [here](https://github.com/albusaidyy/meals/tree/master/assets/screenshots).
+More Images can be found [here](https://github.com/albusaidyy/meals/tree/master/assets/screenshots).
 
 
 ## Contributing
