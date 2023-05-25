@@ -6,10 +6,8 @@ A simple Meal Recipe App built with Flutter.
 
 # Simulation
 Take a look at the [App](https://meals-fa154.web.app/#/)
-<br>
 
-
- **_NOTE:_**   This is a mere simulation of the mobile user experience from your laptop, desktop or tablet.
+>**This is only a simulation of the mobile user experience from your laptop, desktop or tablet.**
 
 ## Screenshots
 
@@ -31,9 +29,13 @@ More Images can be found [here](https://github.com/albusaidyy/meals/tree/master/
 
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests, and all other contributions are welcome!
 
-Please make sure to update tests as appropriate.
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/whatEver`)
+3. Commit your changes (`git commit -am 'Add some whatEver'`)
+4. Push to the branch (`git push origin feature/whatEver`)
+5. Create a new Pull Request :grin:
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
