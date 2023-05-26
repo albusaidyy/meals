@@ -70,7 +70,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'DeliMeals',
+      title: 'Meals',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         canvasColor: Color.fromRGBO(255, 254, 229, 1),
