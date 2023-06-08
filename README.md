@@ -5,7 +5,7 @@ A simple Meal Recipe App built with Flutter.
 * Provider package - State management
 
 # Simulation
-Take a look at the [App](https://meals-fa154.web.app/#/)
+Take a look at the [App](https://meals-recipe-ke.web.app/#/)
 
 >**This is only a simulation of the mobile user experience from your laptop, desktop or tablet.**
 
